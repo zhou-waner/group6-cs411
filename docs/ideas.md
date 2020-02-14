@@ -1,10 +1,28 @@
-ideas for team prokject.
+ideas for team project.
 
 
 idea 1:
-test
+
+Music App
+
+Introduction:
+
+Database:
+APIs: 
+1. 
+2. 
+Third-party authentication:twitter or face to login
 
 
-idea2:
 
+idea 2:
 
+(name)
+
+Introduction:
+
+Database:
+APIs: 
+1. 
+2. 
+Third-party authentication:twitter or face to login
