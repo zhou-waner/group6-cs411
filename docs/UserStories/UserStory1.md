@@ -1,2 +1,3 @@
 More and more people who runs shops prefer having projector or tv in their place. For some place like coffee shops and restaurants, they may want to shuffle the list of videos the same way like we use spotif, all they should do is choosing a list and press the bottom. 
+
 To fullfill this dream, they can use our group's project that can automatically find the corresponding video when users are using Spotify. 
