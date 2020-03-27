@@ -1,6 +1,7 @@
-## Group 6
+## Group 6 
+#-- using APIs to help better use Spotify
 
-You can use the [editor on GitHub](https://github.com/zhou-waner/group6-cs411/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+our APIs are from [Web API Libraries](https://developer.spotify.com/documentation/web-api/libraries/#libraries) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
