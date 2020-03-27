@@ -1,6 +1,4 @@
-# Group 6 
-### using APIs to help better use Spotify
-=======
+# Using APIs to help better use Spotify
 
 our APIs are from [Web API Libraries](https://developer.spotify.com/documentation/web-api/libraries/#libraries) 
 
@@ -25,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://images.app.goo.gl/sTB9qFWPsZwPZYUUA)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
