@@ -1,6 +1,6 @@
 # Using APIs to help better use Spotify
 
-our APIs are from [Web API Libraries](https://developer.spotify.com/documentation/web-api/libraries/#libraries) 
+_our APIs are from [Web API Libraries](https://developer.spotify.com/documentation/web-api/libraries/#libraries)_
 
 ------
 
@@ -9,9 +9,9 @@ our APIs are from [Web API Libraries](https://developer.spotify.com/documentatio
 ```markdown
 **our APIs include:**
 
-1. _Searching music video for all musics in your playlist_
-2. _Music visualization_
-3. _Let's guess what you would like!_
+1. Searching music video for all musics in your playlist
+2. Music visualization
+3. Let's guess what you would like!
 
 
 
