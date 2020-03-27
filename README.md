@@ -4,26 +4,18 @@ our APIs are from [Web API Libraries](https://developer.spotify.com/documentatio
 
 ------
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-
+**our APIs include:**
 
 # Searching music video for all musics in your playlist
 ## Music visualization
 ### Let's guess what you would like!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+and _Italic_ and `Code` text
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/zhou-waner/group6-cs411/blob/master/docs/logo.png)
 ```
 
 
