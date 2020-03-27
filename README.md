@@ -1,6 +1,6 @@
 # Group 6 
-### -- using APIs to help better use Spotify
-====
+### using APIs to help better use Spotify
+=======
 
 our APIs are from [Web API Libraries](https://developer.spotify.com/documentation/web-api/libraries/#libraries) 
 
