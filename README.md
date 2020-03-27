@@ -9,12 +9,11 @@ our APIs are from [Web API Libraries](https://developer.spotify.com/documentatio
 ```markdown
 **our APIs include:**
 
-# Searching music video for all musics in your playlist
-## Music visualization
-### Let's guess what you would like!
+1. _Searching music video for all musics in your playlist_
+2. _Music visualization_
+3. _Let's guess what you would like!_
 
 
-and _Italic_ and `Code` text
 
 ```
 
