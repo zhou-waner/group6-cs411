@@ -23,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://images.app.goo.gl/sTB9qFWPsZwPZYUUA.png)
+[Link](url) and ![Image](https://gizmodo.com/spotify-fix-your-crooked-logo-its-driving-me-nuts-1828423134.png)
 ```
 
 
