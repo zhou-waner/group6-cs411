@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Group 6
 
 You can use the [editor on GitHub](https://github.com/zhou-waner/group6-cs411/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
