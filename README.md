@@ -1,9 +1,10 @@
-## Group 6 
-#-- using APIs to help better use Spotify
+# Group 6 
+### -- using APIs to help better use Spotify
+====
 
 our APIs are from [Web API Libraries](https://developer.spotify.com/documentation/web-api/libraries/#libraries) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------
 
 ### Markdown
 
