@@ -5,13 +5,11 @@ _our APIs are from [Web API Libraries](https://developer.spotify.com/documentati
 ------
 
 
-**Run Locally:**
+**How to Run:**
 
 ```markdown
 
-Create a new Spotify app in your Spotify Developer Dashboard.
-Use node to run it.
-Add http://http://localhost:8888/ to your app's Redirect URIs. Make note to save your Client ID and Client Secret.
+See detail in Spotify 1.0/ Authorization_code/readme.md
 
 
 ```
