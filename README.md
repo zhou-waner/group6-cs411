@@ -5,16 +5,12 @@ _our APIs are from [Web API Libraries](https://developer.spotify.com/documentati
 ------
 
 
-**our APIs include:**
-
+**Run Locally:**
 
 ```markdown
 
-
-1. Searching music video for all musics in your playlist
-2. Music visualization
-3. Let's guess what you would like!
-
+Create a new Spotify app in your Spotify Developer Dashboard.
+Add http://http://localhost:8888/ to your app's Redirect URIs. Make note to save your Client ID and Client Secret.
 
 
 ```
