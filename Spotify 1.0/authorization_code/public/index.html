@@ -3,10 +3,25 @@
   <head>
     <title>Login</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
     <style type="text/css">
       #login, #loggedin {
         display: none;
       }
+	body{
+      		text-align: center;
+		color:white
+      		margin-bottom: 30px;
+      		margin-top: 50px;
+      		background-image: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/140913522/original/b6166d8638c5e6d0ee578b49a3eb9c0a7cfc6f3f/create-lofi-hip-hop-animations.jpg");
+		height:600px;
+            	background-position:center;
+            	background-size: cover;
+		
+    	}
+	h1{color: white}
+	div{color:white}
+	url{color:white}
       .text-overflow {
         overflow: hidden;
         text-overflow: ellipsis;
@@ -31,7 +46,7 @@
       </div>
     </div>
 
-    <script id="user-profile-template" type="text/x-handlebars-template">
+<script id="user-profile-template" type="text/x-handlebars-template">
       <h1>Logged in as {{display_name}}</h1>
       <div class="media">
         <div class="pull-left">
@@ -136,6 +151,7 @@
           }, false);
         }
       })();
+   
     </script>
   </body>
 </html>
